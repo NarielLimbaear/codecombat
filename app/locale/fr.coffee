@@ -19,7 +19,7 @@ module.exports = nativeDescription: "français", englishDescription: "French", t
   nav:
     play: "Jouer" # The top nav bar entry where players choose which levels to play
     community: "Communauté"
-#    courses: "Courses"
+#    courses: "Cours"
     editor: "Éditeur"
     blog: "Blog"
     forum: "Forum"
@@ -35,7 +35,7 @@ module.exports = nativeDescription: "français", englishDescription: "French", t
     contact: "Contact"
     twitter_follow: "Suivre"
     teachers: "Enseignants"
-#    careers: "Careers"
+#    careers: "Emplois"
 
   modal:
     close: "Fermer"
